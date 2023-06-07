@@ -25,5 +25,5 @@ void print_diadsums(int *a, int size)
 	}
 
 
-	printf("%d, %d\n", n, b,);
+	printf("%d, %d\n", n, b);
 }
